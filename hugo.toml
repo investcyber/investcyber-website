@@ -20,10 +20,10 @@ assetDir = "static"
   name = 'Home'
   pageRef = '/'
   weight = 10
-[[menu.main]]
-name = 'Conference Talks'
-pageRef = 'talks'
-weight = 20
+#[[menu.main]]
+#name = 'Conference Talks'
+#pageRef = 'talks'
+#weight = 20
 [[menu.main]]
   name = 'About'
   pageRef = 'about'
